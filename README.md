@@ -1,6 +1,8 @@
 # space-cyber-training-resources
 Resources to learn more about cybersecurity for space systems.  Includes free and commercial/paid opportunities.
 
+Parallax Cyber "Securing Space Systems Against Cyber-Attacks" (short course) ($)
+
 IEEE:
 - https://2025.smcit-scc.space/home/space-cyber-2025
 - IEEE Ground Systems Cybersecurity Working Group
